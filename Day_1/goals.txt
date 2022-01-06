@@ -1,6 +1,0 @@
-Goals for the course:
-
-Learn all the resources provided, as best as possible.
-finish the course with an idea of what i want to do next.
-apply the skills i've learned effectively in the final project.
-develop a habit of good dev practices.
